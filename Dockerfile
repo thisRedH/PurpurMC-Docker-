@@ -1,4 +1,4 @@
-FROM ghcr.io/graalvm/jdk-community:17-ol9
+FROM ghcr.io/graalvm/jdk-community:21
 
 EXPOSE 25565/tcp
 
